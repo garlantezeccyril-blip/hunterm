@@ -1,0 +1,8 @@
+{
+  "name": "Pre-Pump Engine",
+  "description": "IA d'analyse et détecteur de configurations pré-pump crypto basé sur la confluence volume, squeeze, momentum et structure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
